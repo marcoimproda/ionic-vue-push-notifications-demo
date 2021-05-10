@@ -1,0 +1,13 @@
+{
+    "appId": "ionic_vue_push_demo.app",
+    "appName": "Ionic Vue Push Notification Demo",
+    "bundledWebRuntime": false,
+    "npmClient": "npm",
+    "webDir": "dist",
+    "plugins": {
+        "SplashScreen": {
+            "launchShowDuration": 0
+        }
+    },
+    "cordova": {}
+}

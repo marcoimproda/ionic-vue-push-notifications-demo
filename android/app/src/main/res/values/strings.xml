@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ionic Vue Push Notification Demo</string>
+    <string name="title_activity_main">Ionic Vue Push Notification Demo</string>
+    <string name="package_name">ionic_vue_push_demo.app</string>
+    <string name="custom_url_scheme">ionic_vue_push_demo.app</string>
+</resources>

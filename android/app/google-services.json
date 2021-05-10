@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146230785452",
+    "project_id": "ionic-vue-push-demo-285c3",
+    "storage_bucket": "ionic-vue-push-demo-285c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146230785452:android:20bcdeab62a6e1ece1b609",
+        "android_client_info": {
+          "package_name": "ionic_vue_push_demo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146230785452-9jbau2be4vept2ebcf5sj7a308fi7j6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAdCVOCIWX5ko2ELlYa0nQ7MZeaiLhHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146230785452-9jbau2be4vept2ebcf5sj7a308fi7j6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

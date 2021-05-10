@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-push-notification-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
